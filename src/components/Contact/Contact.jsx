@@ -40,7 +40,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    Acme Inc, Street, State, Postal Code
+                                    133/A, offcer colony , Sikandra, Agra-282007
                                 </div>
                             </div>
 
@@ -62,7 +62,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    +44 1234567890
+                                    +91 8923544850
                                 </div>
                             </div>
 
@@ -84,7 +84,7 @@ export default function Contact() {
                                     />
                                 </svg>
                                 <div className="ml-4 text-md tracking-wide font-semibold w-40">
-                                    info@acme.org
+                                    suresh.sc123.123@gmail.com
                                 </div>
                             </div>
                         </div>
