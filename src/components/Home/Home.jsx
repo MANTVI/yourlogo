@@ -31,8 +31,8 @@ export default function Home() {
                             &nbsp; Download now
 
                         </Link>
-                        <a href="tel:+919084620887">
-                            <button>Call Us</button>
+                        <a href="tel:+91908460887">
+                            <button>Call</button>
                         </a>
                     </div>
                 </div>
