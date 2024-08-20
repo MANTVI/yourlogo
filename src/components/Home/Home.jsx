@@ -33,6 +33,10 @@ export default function Home() {
                         </Link>
                         <a href="https://wa.me/+919084620887?text=YourMessage">Chat on WhatsApp</a>
 
+                        <a href="tel:+919084620887">
+                            <button>Call</button>
+                        </a>
+
                     </div>
                 </div>
 
