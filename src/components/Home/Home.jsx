@@ -31,9 +31,8 @@ export default function Home() {
                             &nbsp; Download now
 
                         </Link>
-                        <a href="tel:+91908460887">
-                            <button>Call</button>
-                        </a>
+                        <a href="https://wa.me/PhoneNumber?text=YourMessage">Chat on WhatsApp</a>
+
                     </div>
                 </div>
 
